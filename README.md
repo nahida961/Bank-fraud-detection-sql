@@ -53,4 +53,4 @@ This project simulates a real bank's AML compliance pipeline. The schema, logic,
 
 ## Author
 **Nahida Banoo** — BSc (Hons) Computer Science, University of Delhi  
-Research: Financial Fraud Detection (Conference Paper, 2024)
+Research: Financial Fraud Detection using TDA (Research Paper, 2026)
